@@ -10,7 +10,7 @@ noteday 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://zdomin.com/hello-solo)
+* [mysql常用的命令](http://zdomin.com/articles/2019/09/19/1568904222635.html)
 
 
 

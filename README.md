@@ -10,7 +10,7 @@ noteday 的个人博客
 
 ### 最新
 
-* [mysql常用的命令](http://zdomin.com/articles/2019/09/19/1568904222635.html)
+* [基于springboot2的jar项目发布和控制流程](http://zdomin.com/articles/2019/09/19/1568906425769.html)
 
 
 

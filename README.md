@@ -10,6 +10,7 @@ noteday 的个人博客
 
 ### 最新
 
+* [linux下的设置和查看环境变量](http://zdomin.com/articles/2019/09/29/1569768986716.html)
 * [基于springboot2的jar项目发布和控制流程](http://zdomin.com/articles/2019/09/19/1568906425769.html)
 
 

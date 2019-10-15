@@ -10,6 +10,7 @@ noteday 的个人博客
 
 ### 最新
 
+* [Github API v3-OAuth遇到的错误](http://zdomin.com/articles/2019/10/15/1571130820108.html)
 * [我在 GitHub 上的开源项目](http://zdomin.com/my-github-repos)
 * [基于springboot2的jar项目发布和控制流程](http://zdomin.com/articles/2019/09/19/1568906425769.html)
 

@@ -10,6 +10,7 @@ noteday 的个人博客
 
 ### 最新
 
+* [通过日志恢复mysql中误操作丢失的数据](http://zdomin.com/articles/2019/11/05/1572918527845.html)
 * [我在 GitHub 上的开源项目](http://zdomin.com/my-github-repos)
 * [idea的快捷键](http://zdomin.com/articles/2019/10/20/1571578757864.html)
 * [Mac配置Maven及IntelliJ IDEA Maven配置](http://zdomin.com/articles/2019/10/17/1571282725800.html)
